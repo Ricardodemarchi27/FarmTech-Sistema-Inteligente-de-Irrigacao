@@ -28,3 +28,7 @@ A bomba é ligada quando a umidade indicada fica abaixo de 40% e desligada quand
 - ESP32
 - Wokwi
 - Arduino
+
+## Imagem do circuito
+
+![Circuito do sistema de irrigação](Circuito.png)
