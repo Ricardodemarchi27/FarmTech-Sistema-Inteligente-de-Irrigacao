@@ -1,0 +1,6 @@
+projeto: Sistema Inteligente de Irrigação — FarmTech Solutions
+
+Repositório GitHub: https://github.com/Ricardodemarchi27/FarmTech-Sistema-Inteligente-de-Irrigacao
+
+Simulação Wokwi: https://wokwi.com/projects/477431752532769793
+
